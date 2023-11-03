@@ -50,6 +50,6 @@ android {
 }
 
 dependencies {
-    implementation("com.android.tools.build:apkzlib:7.2.2")
+    implementation("com.android.tools.build:apkzlib:7.4.2")
     implementation("io.github.vvb2060.ndk:xposeddetector:2.2")
 }
