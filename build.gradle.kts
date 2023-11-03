@@ -10,7 +10,7 @@ buildscript {
 }
 
 plugins {
-    kotlin("android") version "1.7.0" apply false
+    kotlin("android") version "1.9.20" apply false
 }
 
 fun String.execute(currentWorkingDir: File = file("./")): String {
