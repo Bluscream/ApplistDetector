@@ -71,7 +71,7 @@ android {
 dependencies {
     implementation(project(":library"))
 
-    implementation("androidx.core:core-ktx:1.8.0")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.activity:activity-compose:1.5.1")
     implementation("androidx.compose.material:material-icons-extended:1.2.1")
     implementation("androidx.compose.material3:material3:1.1.2")
